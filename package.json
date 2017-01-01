@@ -1,0 +1,17 @@
+{
+  "name": "nyaize",
+  "version": "0.0.1",
+  "description": "Nyaization a text",
+  "author": "syuilo",
+  "license": "MIT",
+  "repository": "https://github.com/syuilo/nyaize.git",
+  "bugs": "https://github.com/syuilo/nyaize/issues",
+  "main": "./built/index.js",
+  "typings": "./built/index.d.ts",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-typescript": "3.1.3",
+    "merge2": "1.0.2",
+    "typescript": "2.1.4"
+  }
+}
