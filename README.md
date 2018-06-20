@@ -1,6 +1,8 @@
 nyaize
 -------------------------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syuilo/nyaize.svg)](https://greenkeeper.io/)
+
 [![][npm-badge]][npm-link]
 [![][mit-badge]][mit]
 
